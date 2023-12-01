@@ -1,6 +1,6 @@
-# Advent of code 2022
+# Advent of code 2023
 
-This is my code from advent of code 2022. Everything is written in plain JavaScript and the code is mostly quick, hacky, and da-da-dirty-dirty. Enjoy!
+This is my code from advent of code. Everything is written in plain JavaScript and the code is mostly quick, hacky, and da-da-dirty-dirty. Enjoy!
 
 https://adventofcode.com/
 
